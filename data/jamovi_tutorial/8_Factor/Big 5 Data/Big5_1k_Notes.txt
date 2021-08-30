@@ -1,0 +1,7 @@
+NOTES ON BIG5_1K.CSV
+
+This dataset contains responses to a measures of the Big 5 personality traits: Conscientiousness, Extraversion, Agreeableness, Neuroticism, and Openness to Experience. (See https://en.wikipedia.org/wiki/Big_Five_personality_traits.)
+
+The data were retrieved from https://openpsychometrics.org/_rawdata/ on 2018-07-26. (It is possible to take the survey at http://openpsychometrics.org/tests/BIG5.php.) The data are there described as “Answers to the Big Five Personality Test, constructed with items from the International Personality Item Pool.” As the original dataset was large (nearly 20,000 respondents), a random subsample of 1000 respondents was created for this demonstration. (Hence the name Big5_1k.)
+
+A few variables were deemed not critical to this demonstration and were deleted: race, English as a native language, handedness, source, and country. Gender was recoded from numbers to text: Male, Female, and Other. Finally, missing values were originally coded as zeros; these were replaced with blank cells.
