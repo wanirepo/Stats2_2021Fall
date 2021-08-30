@@ -106,7 +106,7 @@ Week  | Video lectures | Class | Playlist link | Homework assignment
 11/18 | | (**R**) Multi-level GLM |  |
 **Week 13** | | | |
 11/23 | | (**L**) Multi-level GLM hands-on |  |
-11/25 | | (**R**) Mediation anlaysis |  HW4, due: 12/9|
+11/25 | | (**R**) Mediation anlaysis |  | HW4, due: 12/10|
 **Week 14** | | | |
 11/30 | | (**L**) Mediation anlaysis - hands-on |  |
 12/2 | | (**L**) HW 1-3 reviews, Q&A |  |
