@@ -66,47 +66,47 @@ R: recording
 
 ** The schedule could be adjusted
 
-Week  | Video lectures | Class | Playlist link | Homework assignment
-------| ------ | ----- | -------- | ---
+Week  | Video lectures | Class | Slides | Playlist link | Homework assignment
+------| ------ | ----- | -------- | --- | ---
 **Week 1** |
-8/31  |  | (**L**ivestream) Class overview | | 
-9/2  |  | (**R**ecording) Softwares and programming languages | | |
+8/31  |  | (**L**ivestream) Class overview | [L1 PDF]() | 
+9/2  |  | (**R**ecording) Softwares and programming languages | [L2 PDF]() | |
 **Week 2** | | | |
-9/7 | | (**R**) Target research articles and datasets  | | |
-9/9 | | (**L**) JAMOVI-Getting started  | [Intro_JAMOVI](https://www.youtube.com/playlist?list=PLXCuLG6zw7mK_LZ-MMh6wDRNz0PuAM5nJ) | |
+9/7 | | (**R**) Target research articles and datasets  | [L3 PDF]() | |
+9/9 | | (**L**) JAMOVI-Getting started  | [L4 notion](https://acidic-switch-922.notion.site/L4-JAMOVI-Getting-started-30ffc7bc0fa44aac9fef533206dcb313) | [Intro_JAMOVI](https://www.youtube.com/playlist?list=PLXCuLG6zw7mK_LZ-MMh6wDRNz0PuAM5nJ) | |
 **Week 3** | | | |
-9/14 | | (**R**) Wrangling data | [Data Wrangling](https://www.youtube.com/playlist?list=PLXCuLG6zw7mLKkpNr85n3CVwsl4HzGltP) | |
+9/14 | | (**R**) Wrangling data | | [Data Wrangling](https://www.youtube.com/playlist?list=PLXCuLG6zw7mLKkpNr85n3CVwsl4HzGltP) | |
 9/16 | | (**L**) Wrangling data hands-on  | | |
 **Week 4** | | | |
 9/21 | | 추석 | | |
-9/23 | | (**R**) Data Exploration | [Data Exploration](https://www.youtube.com/playlist?list=PLXCuLG6zw7mLDwCCQRn4x75DxyzfU_mLg) | |
+9/23 | | (**R**) Data Exploration | | [Data Exploration](https://www.youtube.com/playlist?list=PLXCuLG6zw7mLDwCCQRn4x75DxyzfU_mLg) | |
 **Week 5** | | | |
 9/28 | | 공부자탄강일 | | |
 9/30 | | (**L**) Data Exploration hands-on  | | |
 **Week 6** | | | |
 10/5 | | (**R**) Sampling (standard error of the mean, confidence interval) | | |
-10/7 | | (**R**) T-tests | [JAMOVI t-test](https://www.youtube.com/playlist?list=PLXCuLG6zw7mL5v44qpj4VuvcV22YyNc8x) |  | |
+10/7 | | (**R**) T-tests | | [JAMOVI t-test](https://www.youtube.com/playlist?list=PLXCuLG6zw7mL5v44qpj4VuvcV22YyNc8x) |  | |
 **Week 7** | | | |
-10/12 | | (**L**) T-tests hands-on |  | HW1, due: 10/22 | 
+10/12 | | (**L**) T-tests hands-on | |  | HW1, due: 10/22 | 
 10/14 | | (**R**) Resampling (bootstrap and permutation) | | |
 **Week 8** | | | |
-10/19 | | (**R**) Chi-square test| [jamovi tests for counts](https://www.youtube.com/playlist?list=PLXCuLG6zw7mKzyUxZDs06SOtWP8fjJF98) | |  |  
+10/19 | | (**R**) Chi-square test| | [jamovi tests for counts](https://www.youtube.com/playlist?list=PLXCuLG6zw7mKzyUxZDs06SOtWP8fjJF98) | |  |  
 10/21 | | (**L**) Chi-square test hands-on & ANOVA review | | |
 **Week 9** | | | |
-10/26 | | (**R**) ANOVA in JAMOVI |  [jamovi ANOVA](https://www.youtube.com/playlist?list=PLXCuLG6zw7mLmslikvkrA4H0i5vNv4tBp) | HW2, due: 11/5|
+10/26 | | (**R**) ANOVA in JAMOVI |  | [jamovi ANOVA](https://www.youtube.com/playlist?list=PLXCuLG6zw7mLmslikvkrA4H0i5vNv4tBp) | HW2, due: 11/5|
 10/28 | | (**L**) ANOVA hands-on |  | |
 **Week 10** | | | |
-11/2 | | (**R**) ANOVA - advanced |  [jamovi ANOVA](https://www.youtube.com/playlist?list=PLXCuLG6zw7mLmslikvkrA4H0i5vNv4tBp) | |
-11/4 | | (**R**) Correlation, Multiple regression (basics) - basic stats, R-squared | [jamovi Regression](https://www.youtube.com/playlist?list=PLXCuLG6zw7mKEkaaVzzoUWjQdCGjhksmP) |
+11/2 | | (**R**) ANOVA - advanced |  | [jamovi ANOVA](https://www.youtube.com/playlist?list=PLXCuLG6zw7mLmslikvkrA4H0i5vNv4tBp) | |
+11/4 | | (**R**) Correlation, Multiple regression (basics) - basic stats, R-squared | | [jamovi Regression](https://www.youtube.com/playlist?list=PLXCuLG6zw7mKEkaaVzzoUWjQdCGjhksmP) |
 **Week 11** | | | |
 11/9 | | (**L**) Multiple regression hands-on |  |
-11/11 | | (**R**) Multiple regression advanced (dummy coding, hierarchical, additional R-squared) | | HW3, due: 11/19 | 
+11/11 | | (**R**) Multiple regression advanced (dummy coding, hierarchical, additional R-squared) | | | HW3, due: 11/19 | 
 **Week 12** | | | |
 11/16 | | (**L**) Multiple regression advanced hands-on |  |  |
 11/18 | | (**R**) Multi-level GLM |  |
 **Week 13** | | | |
 11/23 | | (**L**) Multi-level GLM hands-on |  |
-11/25 | | (**R**) Mediation anlaysis |  | HW4, due: 12/10|
+11/25 | | (**R**) Mediation anlaysis | | | HW4, due: 12/10|
 **Week 14** | | | |
 11/30 | | (**L**) Mediation anlaysis - hands-on |  |
 12/2 | | (**L**) HW 1-3 reviews, Q&A |  |
