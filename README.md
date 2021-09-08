@@ -66,13 +66,13 @@ R: recording
 
 ** The schedule could be adjusted
 
-Week  | Video lectures | Class | Slides | Playlist link | Homework assignment
+Week  | Video lectures | Class topic | Slides | JAMOVI youtube | Homework
 ------| ------ | ----- | -------- | --- | ---
 **Week 1** |
-8/31  |  | (**L**ivestream) Class overview | [L1 PDF]() | 
-9/2  |  | (**R**ecording) Softwares and programming languages | [L2 PDF]() | |
+8/31  |  | (**L**ivestream) Class overview | [L1 PDF](https://github.com/wanirepo/Stats2_2021Fall/blob/master/slides/Woo_GBE3072_L01.pdf) | 
+9/2  |  | (**R**ecording) Softwares and programming languages | [L2 PDF](https://github.com/wanirepo/Stats2_2021Fall/blob/master/slides/Woo_GBE3072_L02.pdf) | |
 **Week 2** | | | |
-9/7 | | (**R**) Target research articles and datasets  | [L3 PDF]() | |
+9/7 | | (**R**) Target research articles and datasets  | [L3 PDF](https://github.com/wanirepo/Stats2_2021Fall/blob/master/slides/Woo_GBE3072_L03.pdf) | |
 9/9 | | (**L**) JAMOVI-Getting started  | [L4 notion](https://acidic-switch-922.notion.site/L4-JAMOVI-Getting-started-30ffc7bc0fa44aac9fef533206dcb313) | [Intro_JAMOVI](https://www.youtube.com/playlist?list=PLXCuLG6zw7mK_LZ-MMh6wDRNz0PuAM5nJ) | |
 **Week 3** | | | |
 9/14 | | (**R**) Wrangling data | | [Data Wrangling](https://www.youtube.com/playlist?list=PLXCuLG6zw7mLKkpNr85n3CVwsl4HzGltP) | |
