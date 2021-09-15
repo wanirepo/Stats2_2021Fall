@@ -76,7 +76,7 @@ Week  | Video lectures | Class topic | Slides | JAMOVI youtube | Homework
 9/9 | | (**L**) JAMOVI-Getting started  | [L4 notion](https://acidic-switch-922.notion.site/L4-JAMOVI-Getting-started-30ffc7bc0fa44aac9fef533206dcb313) | [Intro_JAMOVI](https://www.youtube.com/playlist?list=PLXCuLG6zw7mK_LZ-MMh6wDRNz0PuAM5nJ) | |
 **Week 3** | | | |
 9/14 | | (**R**) Wrangling data | | [Data Wrangling](https://www.youtube.com/playlist?list=PLXCuLG6zw7mLKkpNr85n3CVwsl4HzGltP) | |
-9/16 | | (**L**) Wrangling data hands-on  | | |
+9/16 | | (**L**) Wrangling data hands-on  | [L6 notion](https://acidic-switch-922.notion.site/L6-JAMOVI-Wrangling-data-24d6b967dd894f65b03f62efb830f851)| |
 **Week 4** | | | |
 9/21 | | 추석 | | |
 9/23 | | (**R**) Data Exploration | | [Data Exploration](https://www.youtube.com/playlist?list=PLXCuLG6zw7mLDwCCQRn4x75DxyzfU_mLg) | |
