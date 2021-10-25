@@ -87,13 +87,13 @@ Week  | Video lectures | Class topic | Slides | JAMOVI youtube | Homework
 10/5 | | (**R**) Sampling (standard error of the mean, confidence interval) | | |
 10/7 | | (**R**) T-tests | | [JAMOVI t-test](https://www.youtube.com/playlist?list=PLXCuLG6zw7mL5v44qpj4VuvcV22YyNc8x) |  | |
 **Week 7** | | | |
-10/12 | | (**L**) T-tests hands-on | |  | HW1, due: 10/22 | 
+10/12 | | (**L**) T-tests hands-on | |  | [HW1](https://github.com/wanirepo/Stats2_2021Fall/blob/master/hw_assignment/hw01.md), due: 10/22 | 
 10/14 | | (**R**) Resampling (bootstrap and permutation) | | |
 **Week 8** | | | |
 10/19 | | (**R**) Chi-square test| | [jamovi tests for counts](https://www.youtube.com/playlist?list=PLXCuLG6zw7mKzyUxZDs06SOtWP8fjJF98) | |  |  
 10/21 | | (**L**) Chi-square test hands-on & ANOVA review | | |
 **Week 9** | | | |
-10/26 | | (**R**) ANOVA in JAMOVI |  | [jamovi ANOVA](https://www.youtube.com/playlist?list=PLXCuLG6zw7mLmslikvkrA4H0i5vNv4tBp) | HW2, due: 11/5|
+10/26 | | (**R**) ANOVA in JAMOVI |  | [jamovi ANOVA](https://www.youtube.com/playlist?list=PLXCuLG6zw7mLmslikvkrA4H0i5vNv4tBp) | [HW2](https://github.com/wanirepo/Stats2_2021Fall/blob/master/hw_assignment/hw02.md), due: 11/5|
 10/28 | | (**L**) ANOVA hands-on |  | |
 **Week 10** | | | |
 11/2 | | (**R**) ANOVA - advanced |  | [jamovi ANOVA](https://www.youtube.com/playlist?list=PLXCuLG6zw7mLmslikvkrA4H0i5vNv4tBp) | |
