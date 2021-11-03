@@ -97,12 +97,12 @@ Week  | Video lectures | Class topic | Slides | JAMOVI youtube | Homework
 10/28 | | (**L**) ANOVA hands-on |  | |
 **Week 10** | | | |
 11/2 | | (**R**) ANOVA - advanced |  | [jamovi ANOVA](https://www.youtube.com/playlist?list=PLXCuLG6zw7mLmslikvkrA4H0i5vNv4tBp) | |
-11/4 | | Review | | 
+11/4 | | (**R**) Correlation, Multiple regression (basics) - basic stats, R-squared |  | [jamovi Regression](https://www.youtube.com/playlist?list=PLXCuLG6zw7mKEkaaVzzoUWjQdCGjhksmP)  | | 
 **Week 11** | | | |
-11/9 | | (**R**) Correlation, Multiple regression (basics) - basic stats, R-squared |  | [jamovi Regression](https://www.youtube.com/playlist?list=PLXCuLG6zw7mKEkaaVzzoUWjQdCGjhksmP) |
-11/11 | | (**L**) Multiple Regression hands-on | | | HW3, due: 11/19 | 
+11/9 | | (**L**) Multiple Regression hands-on | | | HW3, due: 11/19 | |
+11/11 | | (**R**) Multiple regression advanced (dummy coding, hierarchical, additional R-squared) |  |  |
 **Week 12** | | | |
-11/16 | | (**R**) Multiple regression advanced (dummy coding, hierarchical, additional R-squared) |  |  |
+11/16 | | (**L**) Multiple regression advanced hands-on |  |  |
 11/18 | | (**R**) Multi-level GLM |  |
 **Week 13** | | | |
 11/23 | | (**L**) Multi-level GLM hands-on |  |
