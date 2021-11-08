@@ -99,7 +99,7 @@ Week  | Video lectures | Class topic | Slides | JAMOVI youtube | Homework
 11/2 | | (**R**) ANOVA - advanced |  | [jamovi ANOVA](https://www.youtube.com/playlist?list=PLXCuLG6zw7mLmslikvkrA4H0i5vNv4tBp) | |
 11/4 | | (**R**) Correlation, Multiple regression (basics) - basic stats, R-squared |  | [jamovi Regression](https://www.youtube.com/playlist?list=PLXCuLG6zw7mKEkaaVzzoUWjQdCGjhksmP)  | | 
 **Week 11** | | | |
-11/9 | | (**L**) Multiple Regression hands-on | | | HW3, due: 11/19 | |
+11/9 | | (**L**) Multiple Regression hands-on | | | [HW3](https://github.com/wanirepo/Stats2_2021Fall/blob/master/hw_assignment/hw03.md), due: 11/19 | |
 11/11 | | (**R**) Multiple regression advanced (dummy coding, hierarchical, additional R-squared) |  |  |
 **Week 12** | | | |
 11/16 | | (**L**) Multiple regression advanced hands-on |  |  |
