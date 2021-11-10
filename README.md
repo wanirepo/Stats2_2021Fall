@@ -100,16 +100,16 @@ Week  | Video lectures | Class topic | Slides | JAMOVI youtube | Homework
 11/4 | | (**R**) Correlation, Multiple regression (basics) - basic stats, R-squared |  | [jamovi Regression](https://www.youtube.com/playlist?list=PLXCuLG6zw7mKEkaaVzzoUWjQdCGjhksmP)  | | 
 **Week 11** | | | |
 11/9 | | (**L**) Multiple Regression hands-on | | | [HW3](https://github.com/wanirepo/Stats2_2021Fall/blob/master/hw_assignment/hw03.md), due: 11/19 | |
-11/11 | | (**R**) Multiple regression advanced (dummy coding, hierarchical, additional R-squared) |  |  |
+11/11 | | (**R**) Multiple regression advanced  |  |  |
 **Week 12** | | | |
-11/16 | | (**L**) Multiple regression advanced hands-on |  |  |
-11/18 | | (**R**) Multi-level GLM |  |
+11/16 | | (**R**) Multi-level GLM |  |  |
+11/18 | | (**R**) Mediation anlaysis |  |
 **Week 13** | | | |
-11/23 | | (**L**) Multi-level GLM hands-on |  |
-11/25 | | (**R**) Mediation anlaysis | | | HW4, due: 12/10|
+11/23 | | (**L**) Multi-level GLM & Mediation hands-on etc. |  | | HW4, due: 12/10|
+11/25 | | (**R**) Statistics in laboratory | | | 
 **Week 14** | | | |
-11/30 | | (**L**) Mediation anlaysis - hands-on |  |
-12/2 | | (**L**) HW 1-3 reviews, Q&A |  |
+11/30 | | (**R**) Machine learning and cross-validation |  |
+12/2 | | (**L**) HW 1-3 reviews, Q&A (TA) |  |
 **Week 15** | | | |
 12/7 | | (**L**) Reviews |  |
 12/9 | | final |  |
