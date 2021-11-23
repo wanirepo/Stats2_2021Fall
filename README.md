@@ -105,7 +105,7 @@ Week  | Video lectures | Class topic | Slides | JAMOVI youtube | Homework
 11/16 | | (**R**) Multi-level GLM |  |  |
 11/18 | | (**R**) Mediation anlaysis |  |
 **Week 13** | | | |
-11/23 | | (**L**) Multi-level GLM & Mediation hands-on etc. |  | | HW4, due: 12/10|
+11/23 | | (**L**) Multi-level GLM & Mediation hands-on etc. |  | | [HW4](https://github.com/wanirepo/Stats2_2021Fall/blob/master/hw_assignment/hw04.md), due: 12/10|
 11/25 | | (**R**) Statistics in laboratory | | | 
 **Week 14** | | | |
 11/30 | | (**R**) Machine learning and cross-validation |  |
